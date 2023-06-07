@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l lists contents in current directory
+ls
